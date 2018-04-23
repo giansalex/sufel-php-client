@@ -1,0 +1,34 @@
+{
+    "name": "giansalex/sufel-client",
+    "description": "",
+    "keywords": [
+        "sufel",
+        "php",
+        "sdk",
+        "api"
+    ],
+    "homepage": "http://swagger.io",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Swagger and contributors",
+            "homepage": "https://github.com/swagger-api/swagger-codegen"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "autoload": {
+        "psr-4": { "Sufel\\Client\\" : "src/" }
+    },
+    "autoload-dev": {
+        "psr-4": { "Sufel\\Client\\" : "test/" }
+    }
+}
