@@ -1,18 +1,18 @@
 {
     "name": "giansalex/sufel-client",
-    "description": "",
+    "description": "Sufel Php Client for Company",
     "keywords": [
         "sufel",
         "php",
         "sdk",
         "api"
     ],
-    "homepage": "http://swagger.io",
-    "license": "mit",
+    "homepage": "https://github.com/giansalex/sufel-php-client",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Swagger and contributors",
-            "homepage": "https://github.com/swagger-api/swagger-codegen"
+            "name": "Giancarlos Salas",
+            "email": "giansalex@gmail.com"
         }
     ],
     "require": {
