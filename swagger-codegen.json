@@ -1,0 +1,12 @@
+{
+  "spec": {},
+  "options": {
+    "gitUserId": "giansalex",
+    "composerVendorName": "giansalex",
+    "invokerPackage": "Sufel\\Client",
+    "composerProjectName": "sufel-client",
+    "srcBasePath": "src",
+    "packagePath": "Sufel"
+  },
+  "swaggerUrl": "https://raw.githubusercontent.com/giansalex/sufel-rest/master/src/data/swagger.company.json"
+}
